@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Call_phone</string>
+    <string name="call">Call</string>
+    <string name="edt_hint_number">Enter Your Phone Number</string>
+</resources>
